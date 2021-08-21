@@ -1,6 +1,6 @@
 >script>
         .contenedor{
-           display: inline-flex;
+           display: inline-block;
         }
         .cuadrado{
             height: 50px;
